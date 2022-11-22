@@ -27,7 +27,7 @@ main{
 
 h2{
     color: var(--card-color-primary);
-    border: 1px solid var(--card-color-primary);
+    border: 1px solid var(--card-title-border-color);
     display: flex;
     align-items: center;
     padding: .5rem 1rem;
